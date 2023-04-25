@@ -26,7 +26,7 @@ class Pantalla3 extends StatelessWidget {
           children: [
             DrawerHeader(
               decoration: BoxDecoration(
-                color: Color(0xff5e2222),
+                color: Color(0xff4c9dcb),
               ),
               child: Center(
                 child: Row(
@@ -42,7 +42,7 @@ class Pantalla3 extends StatelessWidget {
                     Expanded(
                       flex: 6,
                       child: Text(
-                        "Luis Alejandro Sandoval Quintero",
+                        "Luis Ernesto Montoya Hernandez",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 16,
